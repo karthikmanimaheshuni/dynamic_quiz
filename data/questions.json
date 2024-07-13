@@ -1,0 +1,622 @@
+[
+    {
+      "text": "What is 2 + 2?",
+      "difficulty": "easy",
+      "options": ["3", "4", "5", "6"],
+      "correct_answer": "4"
+    },
+    {
+      "text": "What is the capital of France?",
+      "difficulty": "easy",
+      "options": ["Berlin", "Madrid", "Paris", "Rome"],
+      "correct_answer": "Paris"
+    },
+    {
+      "text": "What is the chemical symbol for water?",
+      "difficulty": "easy",
+      "options": ["O2", "H2O", "CO2", "H2"],
+      "correct_answer": "H2O"
+    },
+    {
+      "text": "Who wrote 'To Kill a Mockingbird'?",
+      "difficulty": "easy",
+      "options": ["Harper Lee", "J.K. Rowling", "Ernest Hemingway", "F. Scott Fitzgerald"],
+      "correct_answer": "Harper Lee"
+    },
+    {
+      "text": "What is the largest planet in our solar system?",
+      "difficulty": "easy",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "correct_answer": "Jupiter"
+    },
+    {
+      "text": "What is the square root of 64?",
+      "difficulty": "easy",
+      "options": ["6", "7", "8", "9"],
+      "correct_answer": "8"
+    },
+    {
+      "text": "Who painted the Mona Lisa?",
+      "difficulty": "easy",
+      "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+      "correct_answer": "Leonardo da Vinci"
+    },
+    {
+      "text": "What is the smallest prime number?",
+      "difficulty": "easy",
+      "options": ["0", "1", "2", "3"],
+      "correct_answer": "2"
+    },
+    
+    {
+      "text": "What is the derivative of x^2?",
+      "difficulty": "medium",
+      "options": ["x", "2x", "x^2", "1"],
+      "correct_answer": "2x"
+    },
+    {
+      "text": "What is the capital of Canada?",
+      "difficulty": "medium",
+      "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+      "correct_answer": "Ottawa"
+    },
+    {
+      "text": "What is the hardest natural substance on Earth?",
+      "difficulty": "medium",
+      "options": ["Gold", "Iron", "Diamond", "Platinum"],
+      "correct_answer": "Diamond"
+    },
+    {
+      "text": "Who developed the theory of relativity?",
+      "difficulty": "medium",
+      "options": ["Isaac Newton", "Albert Einstein", "Nikola Tesla", "Marie Curie"],
+      "correct_answer": "Albert Einstein"
+    },
+    {
+      "text": "What is the capital of Japan?",
+      "difficulty": "medium",
+      "options": ["Beijing", "Seoul", "Tokyo", "Bangkok"],
+      "correct_answer": "Tokyo"
+    },
+    {
+      "text": "What is the freezing point of water in Celsius?",
+      "difficulty": "medium",
+      "options": ["-1", "0", "1", "2"],
+      "correct_answer": "0"
+    },
+    {
+      "text": "What is the powerhouse of the cell?",
+      "difficulty": "medium",
+      "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi apparatus"],
+      "correct_answer": "Mitochondria"
+    },
+    {
+      "text": "What is the smallest unit of life?",
+      "difficulty": "medium",
+      "options": ["Organ", "Tissue", "Cell", "Molecule"],
+      "correct_answer": "Cell"
+    },
+    {
+      "text": "What is the main ingredient in traditional guacamole?",
+      "difficulty": "medium",
+      "options": ["Tomato", "Onion", "Avocado", "Pepper"],
+      "correct_answer": "Avocado"
+    },
+    {
+      "text": "What is the capital of Brazil?",
+      "difficulty": "medium",
+      "options": ["Rio de Janeiro", "Brasilia", "Sao Paulo", "Salvador"],
+      "correct_answer": "Brasilia"
+    },
+    {
+      "text": "Who wrote 'Pride and Prejudice'?",
+      "difficulty": "medium",
+      "options": ["Jane Austen", "Charlotte Bronte", "Emily Dickinson", "Mary Shelley"],
+      "correct_answer": "Jane Austen"
+    },
+    {
+      "text": "What is the largest bone in the human body?",
+      "difficulty": "hard",
+      "options": ["Femur", "Humerus", "Tibia", "Fibula"],
+      "correct_answer": "Femur"
+    },
+    {
+      "text": "What is the main gas found in the air we breathe?",
+      "difficulty": "hard",
+      "options": ["Oxygen", "Hydrogen", "Carbon Dioxide", "Nitrogen"],
+      "correct_answer": "Nitrogen"
+    },
+    {
+      "text": "What element does 'O' represent on the periodic table?",
+      "difficulty": "hard",
+      "options": ["Osmium", "Oxygen", "Oxide", "Ozone"],
+      "correct_answer": "Oxygen"
+    },
+    {
+      "text": "Who discovered penicillin?",
+      "difficulty": "hard",
+      "options": ["Marie Curie", "Alexander Fleming", "Louis Pasteur", "Joseph Lister"],
+      "correct_answer": "Alexander Fleming"
+    },
+    {
+      "text": "What is the capital of Australia?",
+      "difficulty": "hard",
+      "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+      "correct_answer": "Canberra"
+    },
+    {
+      "text": "What is the powerhouse of the cell?",
+      "difficulty": "hard",
+      "options": ["Nucleus", "Mitochondria", "Ribosome", "Endoplasmic Reticulum"],
+      "correct_answer": "Mitochondria"
+    },
+    {
+      "text": "What is the largest organ in the human body?",
+      "difficulty": "hard",
+      "options": ["Heart", "Liver", "Skin", "Lungs"],
+      "correct_answer": "Skin"
+    },
+    {
+      "text": "What is the main ingredient in a traditional Scottish haggis?",
+      "difficulty": "hard",
+      "options": ["Beef", "Pork", "Sheep's Heart, Liver, and Lungs", "Chicken"],
+      "correct_answer": "Sheep's Heart, Liver, and Lungs"
+    },
+    {
+      "text": "Who wrote 'Moby Dick'?",
+      "difficulty": "hard",
+      "options": ["Mark Twain", "Herman Melville", "Charles Dickens", "F. Scott Fitzgerald"],
+      "correct_answer": "Herman Melville"
+    },
+    
+      {
+        "text": "In a binary tree, each node can have at most two children. Consider a binary tree with N nodes where each node contains a unique integer value. Devise an algorithm to find the length of the longest path from the root to any leaf node. The path length is defined as the number of edges between nodes along the path. What would be the time complexity of your algorithm in the worst case, and how would it handle various edge cases such as unbalanced trees or trees with only one node?",
+        "difficulty":"hard",
+        "options": [
+          "O(N), the algorithm would handle any unbalanced tree scenario",
+          "O(log N), it would efficiently manage trees with logarithmic height",
+          "O(N^2), but it would be slow on unbalanced trees",
+          "O(1), constant time for any tree structure"
+        ],
+        "correct_answer": "O(N), the algorithm would handle any unbalanced tree scenario"
+      },
+      {
+        "difficulty":"hard",
+        "text": "Given an unsorted array of integers, write a function to determine the maximum sum of a subarray that does not contain any duplicate elements. Explain how your approach works in detail and discuss its time complexity. For instance, consider the array [4, 3, 5, 6, 7, 3, 8, 2]. What is the maximum sum you can obtain from any subarray without repeating elements, and how does your algorithm ensure that all subarrays are considered efficiently?",
+        "options": [
+          "O(N^2), the algorithm checks each subarray for duplicates",
+          "O(N log N), by using a sorting mechanism to eliminate duplicates",
+          "O(N), using a sliding window and hash set to track elements",
+          "O(N^3), by brute-forcing through all possible subarrays"
+        ],
+        "correct_answer": "O(N), using a sliding window and hash set to track elements"
+      },
+      {
+        "difficulty":"hard",
+        "text": "In the context of machine learning, explain the concept of overfitting and underfitting. How can cross-validation help in mitigating overfitting? Consider a scenario where you have a large dataset with millions of samples. What techniques would you employ to ensure that your model generalizes well to unseen data? Discuss the pros and cons of methods such as k-fold cross-validation, regularization (L1 and L2), and dropout, especially when dealing with high-dimensional data.",
+        "options": [
+          "Overfitting occurs when a model is too simple, underfitting when too complex; cross-validation always eliminates both",
+          "Overfitting is when a model learns noise; underfitting is when it misses patterns; k-fold cross-validation helps generalize",
+          "Overfitting is beneficial for training; underfitting improves test performance; dropout should be used sparingly",
+          "Overfitting and underfitting are unrelated to model complexity; regularization always worsens performance"
+        ],
+        "correct_answer": "Overfitting is when a model learns noise; underfitting is when it misses patterns; k-fold cross-validation helps generalize"
+      },
+      {
+        "difficulty":"hard",
+        "text": "In the context of database management, explain the differences between ACID and BASE properties. How do these properties impact the design and performance of distributed databases? Provide examples of scenarios where ACID compliance is critical and where BASE properties are more suitable. Discuss the trade-offs involved in ensuring strong consistency versus eventual consistency, particularly in systems requiring high availability and fault tolerance.",
+        "options": [
+          "ACID ensures availability; BASE guarantees immediate consistency",
+          "ACID allows for high performance; BASE ensures strict transactions",
+          "ACID focuses on strong consistency; BASE on eventual consistency",
+          "ACID and BASE are identical; no trade-offs exist between them"
+        ],
+        "correct_answer": "ACID focuses on strong consistency; BASE on eventual consistency"
+      },
+      {
+        "difficulty":"hard",
+        "text": "Consider a scenario where you need to design a distributed system for real-time data processing. Discuss the architecture and components you would use, including message queues, data streams, and processing nodes. How would you handle fault tolerance, scalability, and latency in such a system? Provide examples of technologies that could be used, such as Apache Kafka for message queues, Apache Flink for stream processing, and Kubernetes for orchestrating containers. Highlight the challenges and solutions for maintaining high availability and performance under varying loads.",
+        "options": [
+          "Message queues are unnecessary; only databases are needed",
+          "Real-time processing requires batch processing techniques",
+          "Fault tolerance is irrelevant in distributed systems",
+          "Using Apache Kafka, Apache Flink, and Kubernetes for scalability and fault tolerance"
+        ],
+        "correct_answer": "Using Apache Kafka, Apache Flink, and Kubernetes for scalability and fault tolerance"
+      },
+      {
+        "difficulty":"hard",
+        "text": "In graph theory, explain the concept of graph traversal algorithms such as Breadth-First Search (BFS) and Depth-First Search (DFS). Compare their time and space complexities, and discuss scenarios where one is more suitable than the other. For instance, consider a large social network graph where nodes represent users and edges represent connections. How would you efficiently find the shortest path between two users, and why would you choose BFS over DFS or vice versa in this context?",
+        "options": [
+          "DFS is faster and uses less memory than BFS in all cases",
+          "BFS and DFS have identical complexities; choice is irrelevant",
+          "BFS is suitable for shortest paths; DFS for exploring all nodes",
+          "DFS should be used for shortest paths; BFS for deep searches"
+        ],
+        "correct_answer": "BFS is suitable for shortest paths; DFS for exploring all nodes"
+      },
+      {
+        "difficulty":"hard",
+        "text": "In the field of cryptography, describe the differences between symmetric and asymmetric encryption algorithms. How do they achieve confidentiality and integrity of data? Discuss the use cases and limitations of each type of encryption. For example, in secure communication over the internet, why is it common to use both types of encryption together in protocols like TLS/SSL? Explain the role of public and private keys in asymmetric encryption and how key exchange mechanisms work to ensure secure data transmission.",
+        "options": [
+          "Symmetric encryption uses public and private keys; asymmetric uses a single key",
+          "Asymmetric encryption is always faster and more secure than symmetric",
+          "Symmetric encryption is used for speed; asymmetric for secure key exchange",
+          "Both types of encryption are rarely used together in practice"
+        ],
+        "correct_answer": "Symmetric encryption is used for speed; asymmetric for secure key exchange"
+      },
+      {
+        "difficulty":"hard",
+        "text": "In software engineering, explain the concept of design patterns and their importance in object-oriented design. Discuss the differences between creational, structural, and behavioral design patterns, providing examples of each. How do design patterns help in writing maintainable and reusable code? For instance, in a scenario where you are designing a complex user interface, which design patterns would you consider and why? Discuss patterns like Factory, Singleton, Adapter, and Observer, and how they solve common design problems.",
+        "options": [
+          "Design patterns are specific to functional programming only",
+          "Creational patterns manage object creation; structural deal with object composition; behavioral manage object interaction",
+          "Design patterns are only useful in large codebases",
+          "Using design patterns always decreases code maintainability"
+        ],
+        "correct_answer": "Creational patterns manage object creation; structural deal with object composition; behavioral manage object interaction"
+      },
+    
+      {
+        "text": "What is the value of 5 + 3?",
+        "options": ["5", "8", "10", "15"],
+        "correct_answer": "8",
+        "difficulty": "easy"
+      },
+      {
+        "text": "What is the value of 9 - 4?",
+        "options": ["5", "3", "6", "7"],
+        "correct_answer": "5",
+        "difficulty": "easy"
+      },
+          {
+            "text": "What is 7 multiplied by 2?",
+            "options": ["14", "12", "16", "10"],
+            "correct_answer": "14",
+            "difficulty": "easy"
+          },
+          {
+            "text": "What is the value of 15 divided by 3?",
+            "options": ["4", "5", "6", "7"],
+            "correct_answer": "5",
+            "difficulty": "easy"
+          },
+          {
+            "text": "Solve: 6 + 2 * 2",
+            "options": ["10", "14", "16", "8"],
+            "correct_answer": "10",
+            "difficulty": "easy"
+          },
+          {
+            "text": "What is the value of x if 2x = 10?",
+            "options": ["2", "5", "10", "8"],
+            "correct_answer": "5",
+            "difficulty": "easy"
+          },
+          {
+            "text": "Simplify: 3x + 2x",
+            "options": ["5x", "6x", "10x", "3x"],
+            "correct_answer": "5x",
+            "difficulty": "easy"
+          },
+          {
+            "text": "What is the value of the hypotenuse in a right triangle with legs of length 3 and 4?",
+            "options": ["5", "6", "7", "8"],
+            "correct_answer": "5",
+            "difficulty": "easy"
+          },
+          {
+            "text": "Solve for y: 3y = 12",
+            "options": ["2", "3", "4", "5"],
+            "correct_answer": "4",
+            "difficulty": "easy"
+          },
+          {
+            "text": "What is the next prime number after 7?",
+            "options": ["8", "9", "10", "11"],
+            "correct_answer": "11",
+            "difficulty": "easy"
+          },
+          {
+            "text": "What is the derivative of a constant?",
+            "options": ["0", "1", "x", "undefined"],
+            "correct_answer": "0",
+            "difficulty": "easy"
+          },
+          {
+            "text": "Simplify: 4 + 4 / 2",
+            "options": ["2", "4", "6", "8"],
+            "correct_answer": "6",
+            "difficulty": "easy"
+          },
+          {
+            "text": "What is 2 raised to the power of 3?",
+            "options": ["6", "8", "10", "12"],
+            "correct_answer": "8",
+            "difficulty": "easy"
+          },
+          {
+            "text": "What is the square root of 49?",
+            "options": ["6", "7", "8", "9"],
+            "correct_answer": "7",
+            "difficulty": "easy"
+          },
+          {
+            "text": "What is 25% of 200?",
+            "options": ["25", "50", "100", "150"],
+            "correct_answer": "50",
+            "difficulty": "easy"
+          },
+          {
+            "text": "What is the sum of angles in a triangle?",
+            "options": ["90", "180", "270", "360"],
+            "correct_answer": "180",
+            "difficulty": "easy"
+          },
+          {
+            "text": "Solve for x: x/2 = 6",
+            "options": ["2", "6", "8", "12"],
+            "correct_answer": "12",
+            "difficulty": "easy"
+          },
+          {
+            "text": "What is the area of a rectangle with length 5 and width 3?",
+            "options": ["8", "15", "18", "20"],
+            "correct_answer": "15",
+            "difficulty": "easy"
+          },
+          {
+            "text": "Convert 0.75 to a fraction.",
+            "options": ["1/2", "2/3", "3/4", "4/5"],
+            "correct_answer": "3/4",
+            "difficulty": "easy"
+          },
+          {
+            "text": "What is the perimeter of a square with side length 4?",
+            "options": ["8", "12", "16", "20"],
+            "correct_answer": "16",
+            "difficulty": "easy"
+          },
+        
+          {
+            "text": "Solve for x: 2x + 5 = 15",
+            "options": ["2", "5", "8", "10"],
+            "correct_answer": "5",
+            "difficulty": "medium"
+          },
+          {
+            "text": "What is the value of sin(30°)?",
+            "options": ["0.5", "0.866", "1", "0.707"],
+            "correct_answer": "0.5",
+            "difficulty": "medium"
+          },
+          {
+            "text": "Solve for x: x^2 - 4x - 5 = 0",
+            "options": ["1, 5", "-1, 5", "-1, -5", "1, -5"],
+            "correct_answer": "1, -5",
+            "difficulty": "medium"
+          },
+          {
+            "text": "What is the integral of 2x?",
+            "options": ["x^2", "2x^2", "x", "2x"],
+            "correct_answer": "x^2",
+            "difficulty": "medium"
+          },
+          {
+            "text": "Simplify: (3x^2 + 2x) - (x^2 - 4x)",
+            "options": ["2x^2 + 6x", "4x^2 - 2x", "2x^2 - 2x", "4x^2 + 2x"],
+            "correct_answer": "2x^2 + 6x",
+            "difficulty": "medium"
+          },
+          {
+            "text": "What is the value of cos(60°)?",
+            "options": ["0.5", "0.866", "1", "0.707"],
+            "correct_answer": "0.5",
+            "difficulty": "medium"
+          },
+          {
+            "text": "What is the derivative of x^3?",
+            "options": ["3x^2", "x^2", "3x", "x^3"],
+            "correct_answer": "3x^2",
+            "difficulty": "medium"
+          },
+          {
+            "text": "Solve for y: 2y - 3 = 9",
+            "options": ["3", "4", "6", "8"],
+            "correct_answer": "6",
+            "difficulty": "medium"
+          },
+          {
+            "text": "What is the area of a circle with radius 4?",
+            "options": ["16π", "8π", "4π", "2π"],
+            "correct_answer": "16π",
+            "difficulty": "medium"
+          },
+          {
+            "text": "Convert 0.875 to a fraction.",
+            "options": ["3/4", "7/8", "1/2", "5/6"],
+            "correct_answer": "7/8",
+            "difficulty": "medium"
+          },
+          {
+            "text": "What is the value of tan(45°)?",
+            "options": ["0", "1", "0.5", "0.707"],
+            "correct_answer": "1",
+            "difficulty": "medium"
+          },
+          {
+            "text": "Solve for x: log(x) = 2",
+            "options": ["10", "100", "1000", "1"],
+            "correct_answer": "100",
+            "difficulty": "medium"
+          },
+          {
+            "text": "What is the derivative of sin(x)?",
+            "options": ["cos(x)", "-cos(x)", "sin(x)", "-sin(x)"],
+            "correct_answer": "cos(x)",
+            "difficulty": "medium"
+          },
+          {
+            "text": "What is the limit of (3x^2 - x) as x approaches 2?",
+            "options": ["10", "8", "7", "6"],
+            "correct_answer": "10",
+            "difficulty": "medium"
+          },
+          {
+            "text": "What is the value of 3!",
+            "options": ["3", "6", "9", "18"],
+            "correct_answer": "6",
+            "difficulty": "medium"
+          },
+          {
+            "text": "Solve: 3^2 + 4^2",
+            "options": ["7", "12", "16", "25"],
+            "correct_answer": "25",
+            "difficulty": "medium"
+          },
+          {
+            "text": "What is the solution to the inequality 2x + 3 > 7?",
+            "options": ["x > 2", "x < 2", "x > -2", "x < -2"],
+            "correct_answer": "x > 2",
+            "difficulty": "medium"
+          },
+          {
+            "text": "What is the square root of 144?",
+            "options": ["10", "12", "14", "16"],
+            "correct_answer": "12",
+            "difficulty": "medium"
+          },
+          {
+            "text": "What is the volume of a cube with side length 3?",
+            "options": ["9", "18", "27", "36"],
+            "correct_answer": "27",
+            "difficulty": "medium"
+          },
+          {
+            "text": "What is the value of e^0?",
+            "options": ["0", "1", "e", "-1"],
+            "correct_answer": "1",
+            "difficulty": "medium"
+          },
+        
+          {
+            "text": "What is the value of the definite integral of x^2 from 0 to 2?",
+            "options": ["4/3", "8/3", "16/3", "32/3"],
+            "correct_answer": "8/3",
+            "difficulty": "hard"
+          },
+          {
+            "text": "What is the solution to the differential equation dy/dx = 3x^2?",
+            "options": ["x^3 + C", "3x + C", "x^2 + C", "3x^2 + C"],
+            "correct_answer": "x^3 + C",
+            "difficulty": "hard"
+          },
+          {
+            "text": "What is the value of sin(π/6)?",
+            "options": ["0.5", "1", "0", "0.866"],
+            "correct_answer": "0.5",
+            "difficulty": "hard"
+          },
+          {
+            "text": "What is the Maclaurin series for e^x?",
+            "options": ["1 + x + x^2/2! + x^3/3! + ...", "x + x^2 + x^3 + ...", "1 + x + x^2 + x^3 + ...", "x^2 + x^3/3! + ..."],
+            "correct_answer": "1 + x + x^2/2! + x^3/3! + ...",
+            "difficulty": "hard"
+          },
+          {
+            "text": "What is the Laplace transform of 1?",
+            "options": ["1/s", "s", "1", "0"],
+            "correct_answer": "1/s",
+            "difficulty": "hard"
+          },
+          {
+            "text": "What is the value of cos(π/4)?",
+            "options": ["0.5", "1", "0", "0.707"],
+            "correct_answer": "0.707",
+            "difficulty": "hard"
+          },
+          {
+            "text": "What is the derivative of ln(x)?",
+            "options": ["1/x", "x", "ln(x)", "e^x"],
+            "correct_answer": "1/x",
+            "difficulty": "hard"
+          },
+          {
+            "text": "What is the value of the Riemann zeta function at 2?",
+            "options": ["π^2/6", "π^2/4", "π^2", "π/2"],
+            "correct_answer": "π^2/6",
+            "difficulty": "hard"
+          },
+          {
+            "text": "Solve the system of equations: 2x + y = 5, x - y = 1",
+            "options": ["(2, 1)", "(1, 2)", "(3, 2)", "(2, 3)"],
+            "correct_answer": "(2, 1)",
+            "difficulty": "hard"
+          },
+          {
+            "text": "What is the eigenvalue of the matrix [[2, 1], [1, 2]]?",
+            "options": ["3, 1", "2, 2", "3, 2", "1, 1"],
+            "correct_answer": "3, 1",
+            "difficulty": "hard"
+          },
+          {
+            "text": "What is the Fourier series of a square wave?",
+            "options": ["Sum of odd harmonics", "Sum of even harmonics", "Sum of all harmonics", "None"],
+            "correct_answer": "Sum of odd harmonics",
+            "difficulty": "hard"
+          },
+          {
+            "text": "What is the value of the determinant of the matrix [[1, 2], [3, 4]]?",
+            "options": ["-2", "2", "0", "1"],
+            "correct_answer": "-2",
+            "difficulty": "hard"
+          },
+          
+          {
+            "text": "What is the solution to the equation x^2 - 4x + 4 = 0?",
+            "options": ["2", "4", "0", "1"],
+            "correct_answer": "2",
+            "difficulty": "hard"
+          },
+          {
+            "text": "What is the radius of convergence of the power series Σ (x^n)/n?",
+            "options": ["1", "e", "π", "∞"],
+            "correct_answer": "1",
+            "difficulty": "hard"
+          },
+          {
+            "text": "What is the value of the definite integral of e^x from 0 to 1?",
+            "options": ["e - 1", "e + 1", "e", "1"],
+            "correct_answer": "e - 1",
+            "difficulty": "hard"
+          },
+          {
+            "text": "What is the value of the triple integral of 1 over the unit cube?",
+            "options": ["1", "2", "3", "0"],
+            "correct_answer": "1",
+            "difficulty": "hard"
+          },
+          {
+            "text": "What is the general solution to the differential equation y'' - y = 0?",
+            "options": ["C1 e^x + C2 e^(-x)", "C1 e^(2x) + C2 e^(-2x)", "C1 cos(x) + C2 sin(x)", "C1 cosh(x) + C2 sinh(x)"],
+            "correct_answer": "C1 e^x + C2 e^(-x)",
+            "difficulty": "hard"
+          },
+          {
+            "text": "What is the Taylor series expansion of sin(x) around x = 0?",
+            "options": ["x - x^3/3! + x^5/5! - ...", "x + x^2/2! + x^3/3! + ...", "x + x^3/3! + x^5/5! + ...", "x - x^2/2! + x^3/3! - ..."],
+            "correct_answer": "x - x^3/3! + x^5/5! - ...",
+            "difficulty": "hard"
+          },
+          {
+            "text": "What is the value of the definite integral of 1/x from 1 to e?",
+            "options": ["1", "e", "e - 1", "0"],
+            "correct_answer": "1",
+            "difficulty": "hard"
+          }
+        
+      
+    
+  ]
+  
